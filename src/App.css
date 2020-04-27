@@ -1,0 +1,21 @@
+.Nav {
+  height: 10vh;
+  background: linear-gradient(to right, #ff0000 0%, #ff9933 100%);
+}
+.header {
+  font-size: 30px;
+  color: floralwhite;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+}
+.search {
+  cursor: pointer;
+}
+dl:hover {
+  background-color: rgb(19, 106, 150);
+  color: white;
+}
+.bookmark {
+  margin-top: 8px;
+}
